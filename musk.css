@@ -1,0 +1,30 @@
+img {
+    float: left;
+}
+
+p{
+	text-indent: right;
+}
+
+.indent
+{
+	text-indent: right;
+}
+h1{
+	color: red;
+	text-align: center;
+}
+
+
+h3{
+	color: black;
+	text-align: center;
+	 text-decoration: underline;
+}
+
+
+p{
+	color: blue;
+	text-indent: right;
+	text-align: justify;
+}
